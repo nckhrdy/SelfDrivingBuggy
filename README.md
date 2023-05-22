@@ -20,6 +20,10 @@ To calculate, display, and utilize speed, we calculated the speed through using 
 
 To ensure that our software satisfies the timing of our control algorithm, we accommodated the timing limits of sensors and actuators, set PID timing, and use timers or interrupts to ensure consistent timing. We will also prioritize collision detection as a critical activity. Finally, we issued start and stop instructions wirelessly through wireless control. 
 
+### Supporting Artifacts
+- https://drive.google.com/file/d/1qet2Beorp1TNlXkDEIk6q_9u5V8p38tI/view?usp=sharing
+- (Video1: follows wall + turn then fails ) https://drive.google.com/file/d/1G9TEW_tw2v6cyPlIAQ0eAq4RobSjFZ3y/view?usp=share_link
+
 
 ### Self-Assessment 
 
@@ -59,10 +63,6 @@ The Buggy remote, which is connected to our IP address as shown in sketches belo
 
 <img width="1437" alt="Screen Shot 2023-04-04 at 8 53 54 PM" src="https://user-images.githubusercontent.com/47408944/229954137-8398f7ca-f594-4f64-b8b9-26a32e6acfe6.png">
 
-
-### Supporting Artifacts
-- https://drive.google.com/file/d/1qet2Beorp1TNlXkDEIk6q_9u5V8p38tI/view?usp=sharing
-- (Video1: follows wall + turn then fails ) https://drive.google.com/file/d/1G9TEW_tw2v6cyPlIAQ0eAq4RobSjFZ3y/view?usp=share_link
 
 
 ### Modules, Tools, Source Used Including Attribution
